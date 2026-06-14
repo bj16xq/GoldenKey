@@ -1,17 +1,16 @@
-# Golden Key
+# Golden Key OCP and OCR
 
-**Disclaimer:** Content herein reflects individual grassroots work by student leaders. Such content is not official material endorsed by Golden Key International Headquarters.
+This repository hosts information on and files for open co-curricular practices (OCP) and open co-curricular resources (OCR) specifically for chapters of the Golden Key International Honour Society.
 
-This content draws from the paradigm of open co-curricular practices ([see OSF page](https://doi.org/10.17605/OSF.IO/63ZQ8)).
+This content draws from the paradigm of open co-curricular practices (see OSF page: https://doi.org/10.17605/OSF.IO/63ZQ8).
 
-## About
-
-**What?** This repository features open content resources (e.g., templates and guides) for the Golden Key International Honour Society.
-
-**Who?** The intended users are student leaders within Golden Key, but this may be useful to the general public.
-
-**Why?** The purpose of using these resources are to make it easier to plan and execute Golden Key activities and initiatives. Users of these resources may also make their own adjustments that can be openly shared, which enables a cycle of constant improvement that benefits others.
-
-**How?** Resources on this repository are openly accessible. The expectation is that, should improvements be made, that they be openly shared in a similar manner.
+**Disclaimer:** Content herein reflects individual grassroots work by student leaders and is not official material endorsed by Golden Key International Headquarters.
 
 For explanations of each resource, please view [the Wiki.](https://github.com/bj16xq/GoldenKey/wiki)
+
+## Related Content
+For a theoretical background on OCP, see the [OSF project page](https://osf.io/63zq8/). 
+
+For OCP/OCR that are **not** specific to the Golden Key Internation Honour Society, please see the [OCP repository](https://github.com/bj16xq/Open_Co-curricular_Practices).
+
+For open content in other domains, please see the respective repositories: [open practices in organised labour](https://github.com/bj16xq/Open_Labour_Practices) and [open scholarship](https://github.com/bj16xq/BJ_Open_Scholarship) (open pedagogy, open science/research, and open content for students).
